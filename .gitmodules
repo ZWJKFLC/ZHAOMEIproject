@@ -1,0 +1,6 @@
+[submodule "zm_chatgpt"]
+	path = zm_chatgpt
+	url = https://github.com/ZWJKFLC/zm_chatgpt.git
+[submodule "zm_privateinfo"]
+	path = zm_privateinfo
+	url = https://github.com/ZWJKFLC/zm_privateinfo.git
