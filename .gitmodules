@@ -4,3 +4,6 @@
 [submodule "zm_privateinfo"]
 	path = zm_privateinfo
 	url = https://github.com/ZWJKFLC/zm_privateinfo.git
+[submodule "nodetest"]
+	path = nodetest
+	url = https://github.com/ZWJKFLC/nodetest.git
