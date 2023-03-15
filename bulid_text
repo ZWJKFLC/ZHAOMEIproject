@@ -7,3 +7,5 @@ git commit -m "Add zm_chatgpt as submodule"
 cd zm_chatgpt
 git rm -r <ZHAOMEIproject_related_files>
 git commit -m "Remove ZHAOMEIproject related files"
+
+npm install
