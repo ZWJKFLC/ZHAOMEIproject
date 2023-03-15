@@ -1,0 +1,8 @@
+cd ZHAOMEIproject
+git submodule add <zm_chatgpt_git_url> <zm_chatgpt_submodule_path>
+git commit -m "Add zm_chatgpt as submodule"
+
+
+cd zm_chatgpt
+git rm -r <ZHAOMEIproject_related_files>
+git commit -m "Remove ZHAOMEIproject related files"
