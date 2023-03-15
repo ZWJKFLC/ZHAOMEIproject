@@ -1,8 +1,9 @@
+# 添加子库
 cd ZHAOMEIproject
 git submodule add <zm_chatgpt_git_url> <zm_chatgpt_submodule_path>
 git commit -m "Add zm_chatgpt as submodule"
 
-
+# 删掉和主库类似的文件
 cd zm_chatgpt
 git rm -r <ZHAOMEIproject_related_files>
 git commit -m "Remove ZHAOMEIproject related files"
