@@ -9,3 +9,7 @@ git rm -r <ZHAOMEIproject_related_files>
 git commit -m "Remove ZHAOMEIproject related files"
 
 npm install
+
+
+
+<!-- git submodule add https://github.com/ZWJKFLC/zm_weaviate.git ./zm_weaviate -->

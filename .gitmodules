@@ -7,3 +7,6 @@
 [submodule "nodetest"]
 	path = nodetest
 	url = https://github.com/ZWJKFLC/nodetest.git
+[submodule "zm_weaviate"]
+	path = zm_weaviate
+	url = https://github.com/ZWJKFLC/zm_weaviate.git
