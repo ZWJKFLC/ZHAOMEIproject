@@ -13,3 +13,6 @@ npm install
 
 
 git submodule add https://github.com/ZWJKFLC/zm_weaviate.git ./zm_weaviate
+
+
+
