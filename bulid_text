@@ -12,7 +12,7 @@ npm install
 
 
 
-git submodule add https://github.com/ZWJKFLC/zm_weaviate.git ./zm_weaviate
+git submodule add https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain ./Chat-GPT-LangChain
 
 
 
