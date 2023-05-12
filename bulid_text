@@ -12,7 +12,8 @@ npm install
 
 
 
-git submodule add https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain ./Chat-GPT-LangChain
+git submodule add https://github.com/ZWJKFLC/Thin-Plate-Spline-Motion-Model.git ./Thin-Plate-Spline-Motion-Model
 
 
+git submodule add --force https://github.com/ZWJKFLC/Thin-Plate-Spline-Motion-Model.git ./pythonbk/Thin-Plate-Spline-Motion-Model
 
