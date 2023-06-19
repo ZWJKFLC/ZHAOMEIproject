@@ -7,3 +7,6 @@
 [submodule "nodetest"]
 	path = nodetest
 	url = https://github.com/ZWJKFLC/nodetest.git
+[submodule "zm_web"]
+	path = zm_web
+	url = https://github.com/ZWJKFLC/zm_web.git
