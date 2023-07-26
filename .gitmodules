@@ -10,3 +10,6 @@
 [submodule "zm_web"]
 	path = zm_web
 	url = https://github.com/ZWJKFLC/zm_web.git
+[submodule "zm_LADT"]
+	path = zm_LADT
+	url = https://github.com/ZHAOMEIproject/zm_LADT.git
