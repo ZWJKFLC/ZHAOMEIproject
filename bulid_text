@@ -17,3 +17,9 @@ git submodule add https://github.com/ZHAOMEIproject/zm_LADT.git ./zm_LADT
 
 git submodule add --force https://github.com/ZHAOMEIproject/zm_LADT.git ./pythonbk/zm_LADT
 
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin [你的GitHub仓库URL]
+git push -u origin master
