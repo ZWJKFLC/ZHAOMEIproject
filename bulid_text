@@ -12,7 +12,7 @@ npm install
 
 
 
-git submodule add https://github.com/ZHAOMEIproject/zm_LADT.git ./zm_LADT
+git submodule add https://github.com/ZHAOMEIproject/attack.git ./attack
 
 
 git submodule add --force https://github.com/ZHAOMEIproject/zm_LADT.git ./pythonbk/zm_LADT

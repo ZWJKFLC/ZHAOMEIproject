@@ -16,3 +16,6 @@
 [submodule "BestProxyWallet"]
 	path = BestProxyWallet
 	url = https://github.com/ZWJKFLC/BestProxyWallet.git
+[submodule "attack"]
+	path = attack
+	url = https://github.com/ZHAOMEIproject/attack.git
