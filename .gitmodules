@@ -19,3 +19,6 @@
 [submodule "attack"]
 	path = attack
 	url = https://github.com/ZHAOMEIproject/attack.git
+[submodule "zm_blast"]
+	path = zm_blast
+	url = https://github.com/ZWJKFLC/zm_blast.git
