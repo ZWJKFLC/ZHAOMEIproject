@@ -10,7 +10,8 @@ git commit -m "Remove ZHAOMEIproject related files"
 
 npm install
 
-
+# 初始化单个子库
+git submodule update --init <submodule_path>
 
 git submodule add https://github.com/ZWJKFLC/okx-sample-market-maker.git ./okx-sample-market-maker
 
